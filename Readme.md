@@ -5,3 +5,4 @@
 Para ejecutar el sistema, debes poner 
 
 ```npm install react```
+Prueba de actualizacion via terminal hacia la MAc
